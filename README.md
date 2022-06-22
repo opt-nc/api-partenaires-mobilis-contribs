@@ -12,9 +12,10 @@ Cette repository a pour vocation de :
 # 🔖 Ressources et liens
 
 - [Site officiel](https://www.opt.nc/particuliers/mobile/un-reseau-de-boutiques-mobilis-ma-disposition)
-- [Scénario KataCoda](https://www.katacoda.com/opt-labs/courses/partenaires-mobilis/)
+- [Scénario interactif Killercoda](https://killercoda.com/opt-labs/course/partenaires-mobilis/partenaires-mobilis-discover)
 - [Image Docker](https://hub.docker.com/r/optnc/api-partenaires-mobilis)
 
 # Conclusion
 
-Si vous appréciez cette approche, likez ou followez ce projet pour rester au courant des dernières avancées, ou encore faites une issue 😸
+Si vous appréciez cette approche, likez ou followez ce projet pour rester
+au courant des dernières avancées, ou encore faites une issue 😸
